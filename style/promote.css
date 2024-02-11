@@ -1,0 +1,19 @@
+.promote{
+    height:70px;
+}
+.promotionPanel{
+    display:flex;
+    flex-direction:row;
+}
+.promotingPiece{
+    width:70px;
+    height:70px;
+    position:relative;
+}
+.piecesOption{
+    height:70px;
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:100;
+}
